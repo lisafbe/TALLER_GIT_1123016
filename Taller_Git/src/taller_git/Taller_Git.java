@@ -13,9 +13,11 @@ public class Taller_Git {
     /**
      * @param args the command line arguments
      */
-    private boolean variable1;
-    private boolean variable2;
+    private int variable1;
+    private int variable2;
+  
     public static void main(String[] args) {
         // TODO code application logic here
+        
     }
 }
