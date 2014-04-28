@@ -2,4 +2,4 @@ TALLER_GIT_1123016
 ==================
 
 TALLER GIT
-lisa fernanda betancouo
+lisa fernanda betancourt escobar  1123016    lisafbe   
