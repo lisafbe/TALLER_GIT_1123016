@@ -2,4 +2,5 @@ TALLER_GIT_1123016
 ==================
 
 TALLER GIT
-lisa fernanda betancourt escobar  1123016    lisafbe   
+lisa fernanda betancourt escobar  1123016    lisafbe 
+leidy johanna carvajal ortiz  1125911 leidy3743
